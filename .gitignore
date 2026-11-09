@@ -2,4 +2,25 @@
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
+.env
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Large local research data and generated products
+data/
+monsoon_data/
+figures/
+outputs/
+*.nc
+*.nc4
+*.grib
+*.grb
+*.npy
+*.npz
 

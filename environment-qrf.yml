@@ -147,4 +147,3 @@ dependencies:
       - xhistogram==0.3.2
       - xskillscore==0.0.24
       - zipp==3.15.0
-prefix: /Users/abhikbiswas/anaconda3/envs/skgarden

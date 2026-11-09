@@ -1,0 +1,44 @@
+{
+  "title": "On the Use of Quantile Regression Forests for Sub-seasonal Rainfall Forecasting over India",
+  "description": "Research code for calibrating GEFSv12 sub-seasonal Indian summer monsoon rainfall forecasts with Quantile Regression Forests and comparing them with Extended Logistic Regression.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Singh, Bohar",
+      "affiliation": "NOAA Climate Prediction Center; International Research Institute for Climate and Society, Columbia Climate School"
+    },
+    {
+      "name": "Biswas, Abhik",
+      "affiliation": "Data Science Institute, Columbia University"
+    },
+    {
+      "name": "Robertson, Andrew W.",
+      "affiliation": "International Research Institute for Climate and Society and Center for Climate Systems Research, Columbia Climate School"
+    },
+    {
+      "name": "Ehsan, Muhammad Azhar",
+      "affiliation": "International Research Institute for Climate and Society and Center for Climate Systems Research, Columbia Climate School"
+    },
+    {
+      "name": "Kaplan, Aaron",
+      "affiliation": "International Research Institute for Climate and Society, Columbia Climate School"
+    },
+    {
+      "name": "Dey, Avijit",
+      "affiliation": "Indian Institute of Tropical Meteorology"
+    },
+    {
+      "name": "Joseph, Susmitha",
+      "affiliation": "Indian Institute of Tropical Meteorology"
+    }
+  ],
+  "keywords": [
+    "sub-seasonal forecasting",
+    "Indian summer monsoon",
+    "precipitation",
+    "quantile regression forest",
+    "probabilistic calibration"
+  ]
+}

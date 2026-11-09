@@ -286,4 +286,3 @@ dependencies:
       - scipy==1.11.4
       - xhistogram==0.3.2
       - xskillscore==0.0.26
-prefix: /Users/abhikbiswas/anaconda3/envs/xcast_env

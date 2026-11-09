@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release."
+title: "On the Use of Quantile Regression Forests for Sub-seasonal Rainfall Forecasting over India"
+type: software
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+repository-code: "https://github.com/singh-bohar/india-monsoon-qrf-calibration"
+abstract: >-
+  Research code for calibrating GEFSv12 sub-seasonal Indian summer monsoon
+  rainfall forecasts with Quantile Regression Forests and comparing them with
+  Extended Logistic Regression.
+keywords:
+  - sub-seasonal forecasting
+  - Indian summer monsoon
+  - precipitation
+  - quantile regression forest
+  - probabilistic calibration
+authors:
+  - family-names: Singh
+    given-names: Bohar
+    email: bohar.singh@noaa.gov
+    affiliation: "NOAA Climate Prediction Center; International Research Institute for Climate and Society, Columbia Climate School"
+  - family-names: Biswas
+    given-names: Abhik
+    affiliation: "Data Science Institute, Columbia University"
+  - family-names: Robertson
+    given-names: Andrew W.
+    affiliation: "International Research Institute for Climate and Society and Center for Climate Systems Research, Columbia Climate School"
+  - family-names: Ehsan
+    given-names: Muhammad Azhar
+    affiliation: "International Research Institute for Climate and Society and Center for Climate Systems Research, Columbia Climate School"
+  - family-names: Kaplan
+    given-names: Aaron
+    affiliation: "International Research Institute for Climate and Society, Columbia Climate School"
+  - family-names: Dey
+    given-names: Avijit
+    affiliation: "Indian Institute of Tropical Meteorology"
+  - family-names: Joseph
+    given-names: Susmitha
+    affiliation: "Indian Institute of Tropical Meteorology"
