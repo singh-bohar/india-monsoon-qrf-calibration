@@ -1,5 +1,7 @@
 # On the Use of Quantile Regression Forests for Sub-seasonal Rainfall Forecasting over India
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24084360.svg)](https://doi.org/10.5281/zenodo.24084360)
+
 Research code accompanying the manuscript **“On the Use of Quantile Regression Forests for Sub-seasonal Rainfall Forecasting over India.”** The study evaluates Quantile Regression Forest (QRF) calibration of GEFSv12 sub-seasonal Indian summer monsoon rainfall forecasts and compares it with Extended Logistic Regression (ELR).
 
 ## Authors
@@ -58,7 +60,7 @@ The notebooks are research workflows rather than a packaged command-line applica
 
 ## Citation
 
-Please cite the archived software release using the metadata in [`CITATION.cff`](CITATION.cff). A version-specific DOI will be provided through Zenodo with the first GitHub release.
+Please cite the archived software release using the metadata in [`CITATION.cff`](CITATION.cff). The version-specific Zenodo DOI for release `v1.0.0` is [10.5281/zenodo.24084360](https://doi.org/10.5281/zenodo.24084360).
 
 ## License
 
